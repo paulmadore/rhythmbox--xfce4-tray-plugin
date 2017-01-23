@@ -6,7 +6,9 @@ This is a simple fork of Mendhak's Rhythmbox tray icon plugin. XFCE4 does not su
 ## Installation 
 
 `git clone https://github.com/paulmadore/rb-xfce4-plugin`
+
 `mkdir ~/.local/share/rhythmbox/plugins/rb-xfce4-plugin`
+
 `cp * ~/.local/share/rhythmbox/plugins/rb-xfce4-plugin`
 
 Now, in *Rhythmbox*, go to Plugins > Configure Plugins window. Find "Tray Icon" and enable it. If the old Tray Icon is still enabled, you may want to disable it to avoid problems.
