@@ -5,7 +5,7 @@ This is a simple fork of Mendhak's Rhythmbox tray icon plugin. XFCE4 does not su
 
 ## Installation 
 
-`git clone https://github.com/paulmadore/rb-xfce4-plugin`
+`git clone https://github.com/paulmadore/rhythmbox-xfce4-tray-plugin.git`
 
 `mkdir ~/.local/share/rhythmbox/plugins/rb-xfce4-plugin`
 
